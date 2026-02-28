@@ -31,7 +31,6 @@ The core objective is to analyze sales data to identify price sensitivity, segme
 │   ├── analyze_segments.py     # Performs Pareto/ABC segmentation
 │   ├── analyze_elasticity.py   # Calculates price elasticity coefficients
 │   └── analyze_market_inventory.py # Competitor and inventory risk analysis
-├── PowerBI_Guide.md            # Instructions for dashboard building
 └── README.md                   # Project documentation
 ```
 
@@ -76,3 +75,4 @@ Refer to [PowerBI_Guide.md](PowerBI_Guide.md) for detailed DAX measures and visu
 *   **Pandas/NumPy**: Data manipulation.
 *   **Matplotlib/Seaborn**: Exploratory data visualization.
 *   **Power BI**: Interactive business intelligence reporting.
+
