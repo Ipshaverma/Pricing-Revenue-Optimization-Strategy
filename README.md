@@ -66,7 +66,6 @@ The project includes a comprehensive guide to building a 4-page interactive dash
 3.  **What-If Simulator**: Interactive bridge charts for revenue prediction.
 4.  **Market & Inventory**: Comparison against competitors and stock health.
 
-Refer to [PowerBI_Guide.md](PowerBI_Guide.md) for detailed DAX measures and visualization setups.
 
 ---
 
@@ -75,4 +74,5 @@ Refer to [PowerBI_Guide.md](PowerBI_Guide.md) for detailed DAX measures and visu
 *   **Pandas/NumPy**: Data manipulation.
 *   **Matplotlib/Seaborn**: Exploratory data visualization.
 *   **Power BI**: Interactive business intelligence reporting.
+
 
